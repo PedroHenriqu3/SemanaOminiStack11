@@ -28,6 +28,6 @@
   },
 "devDependencies": {
   "logkitty": ">=0.7.1"
-}
+},
   "private": true
 }
